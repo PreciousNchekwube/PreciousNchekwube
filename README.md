@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm McJovial</h1>
+  <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Precious</h1>
   <h3 align="center"> I bring visions to life through design.</h3>
   <h4>I'm a UI/UX Product Designer with a passion for crafting exceptional user experiences and beautiful interfaces. My expertise extends from wireframing and prototyping to delivering pixel-perfect designs that seamlessly merge form and function. I'm also deeply fascinated by the intersection of design and technology, always seeking innovative ways to create intuitive and visually appealing products that leave a lasting impression.</h4>
 </div>
